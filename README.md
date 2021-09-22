@@ -4,8 +4,7 @@
 - ```./build/textool```
 
 # Downloads
-## [Windows](https://drive.google.com/file/d/1aCOI6EgEUst_-iZK5WaJlkiVnWbD2-L7/view?usp=sharing)
-## [Mac](https://drive.google.com/file/d/1nvOdFHD497xKFs98FBCfhCeywSmJarxj/view?usp=sharing)
+- Head over to the [releases](https://github.com/DPM97/teXtool/releases) page to get the latest binaries!
 
 # Contributions
 All contributions to the application are welcomed and encouraged - feel free to create a PR if you desire. 
