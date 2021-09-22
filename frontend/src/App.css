@@ -1,0 +1,22 @@
+body {
+  position: sticky;
+  overflow: hidden;
+}
+
+.App {
+  text-align: center;
+  background-color: #2b5e59;
+  min-height: 100vw;
+}
+
+textarea {
+  background-color: #f0f0f0;
+  border-radius: 0.5rem;
+}
+
+.main {
+  padding: 3rem;
+  display: flex;
+  justify-items: auto;
+  justify-content: center;
+}

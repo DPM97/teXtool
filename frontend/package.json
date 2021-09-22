@@ -1,0 +1,38 @@
+{
+  "name": "textool",
+  "author": "DPM97<dmaloy97@gmail.com>",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@wailsapp/runtime": "^1.0.10",
+    "core-js": "^3.6.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-hot-toast": "^2.1.1",
+    "react-icons": "^4.2.0",
+    "react-modal": "3.11.2",
+    "react-select": "^4.3.1",
+    "wails-react-scripts": "3.0.1-2"
+  },
+  "scripts": {
+    "serve": "CHOKIDAR_USEPOLLING=true react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
